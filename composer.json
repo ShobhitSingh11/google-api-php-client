@@ -43,5 +43,9 @@
         "branch-alias": {
             "dev-main": "2.x-dev"
         }
+    },
+    "scripts": {
+        "lint": "find . -name '*.php' -exec php -l {} \\;",
+        "test": "./vendor/bin/phpunit --coverage-html=coverage"
     }
 }
