@@ -2,7 +2,7 @@
 
 # Google APIs Client Library for PHP #
 
-**NOTE**: please check to see if the package you'd like to install is available in our
+**NOTE**: please check to see if the package you'd like to install is available in our 
 list of [Google cloud packages](https://cloud.google.com/php/docs/reference) first, as
 these are the recommended libraries.
 
