@@ -4,7 +4,7 @@
  
 **NOTE**: please check to see if the package you'd like to install is available in our 
 list of [Google cloud packages](https://cloud.google.com/php/docs/reference) first, as
-these are the recommended libraries. 
+these are the recommended libraries.  
 
 <dl>
   <dt>Reference Docs</dt><dd><a href="https://googleapis.github.io/google-api-php-client/main/">https://googleapis.github.io/google-api-php-client/main/</a></dd>
