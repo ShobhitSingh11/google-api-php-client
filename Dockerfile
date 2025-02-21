@@ -1,6 +1,6 @@
 FROM php:7.4-apache
 
-# Set the working directory to /var/www/html
+# Set the working directory to /var/www/html 
 WORKDIR /var/www/html
 
 # Copy the contents of the current directory into the container at /var/www/html
