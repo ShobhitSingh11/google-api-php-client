@@ -12,5 +12,5 @@ RUN docker-php-ext-install mysqli pdo_mysql
 # Make port 80 available to the world outside this container
 EXPOSE 80
 
-# Run apache when the container launches
+# Run apache when the container launches 
 CMD ["apache2-foreground"]
